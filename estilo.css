@@ -1,0 +1,30 @@
+p{
+    color: rgba(255, 0, 0, 0.658);
+    background-color: blueviolet;
+    padding: 10px;
+    font-family: "verdana";
+    font-weight: 850;
+    font-size: 20px;
+    border-radius: 900px;
+    margin: 10px;
+    border-color: #92929b;
+    border-style: solid;
+
+    
+    
+}
+
+#normal{
+    background-color: darkorange;
+
+
+}
+
+#anormal{background-color: rgb(226, 195, 195);
+
+}
+#Tipos{ background-color: rgb(138, 204, 71);
+    background-color: rgb(228, 135, 197);
+    background-color: rgb(0, 255, 42);
+    background-color: rgb(127, 219, 255);
+}
